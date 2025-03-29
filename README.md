@@ -26,13 +26,5 @@
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ----------------------------
-#### No trabalho:
-
-
-
-
-
-
-
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dupsantana&layout=donut&theme=radical&custom_title=Linguagens%20Mais%20Usadas)](https://github.com/anuraghazra/github-readme-stats)
