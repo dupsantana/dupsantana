@@ -1,5 +1,5 @@
 ### Olá ! Eu sou o Eduardo ☝️🤓 
-Sou estudante de Análise e Desenvolvimento de Sistemas e procuro me aprofundar mais na área de Web-design
+Sou estudante de ADS e procuro me aprofundar mais na área de Web-design.
 -----------
 
 ### Meu contato e redes sociais:
