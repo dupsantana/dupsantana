@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Eduardo ☝️🤓
+### Olá ! Eu sou o Eduardo ☝️🤓 Sou estudante de Análise e Desenvolvimento de Sistemas e estou tentando me aprofundar mais na área de Web-design
 -----------
 
 ### Meu contato e redes sociais:
