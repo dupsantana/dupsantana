@@ -1,5 +1,5 @@
 ### Olá ! Eu sou o Eduardo 
-Sou estudante de ADS e procuro me aprofundar mais em fullstack com meus projetos. ☝️🤓 
+Sou estudante de ADS e procuro me aprofundar mais no DEV fullstack. ☝️🤓 
 -----------
 
 ### Meu contato e redes sociais:
