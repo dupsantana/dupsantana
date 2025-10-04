@@ -1,5 +1,5 @@
-### Olá ! Eu sou o Eduardo ☝️🤓 
-Sou estudante de ADS e procuro me aprofundar mais na área de Web-design.
+### Olá ! Eu sou o Eduardo 
+Sou estudante de ADS e procuro me aprofundar mais em fullstack com meus projetos. ☝️🤓 
 -----------
 
 ### Meu contato e redes sociais:
